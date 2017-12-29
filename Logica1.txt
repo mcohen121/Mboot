@@ -1,0 +1,19 @@
+== igual,!= diferente,> Maior,< Menor,>= maior ou igual,< menor ou igual,instanceoff compara tipos
+
+
+if ((12<13) && (25>23)){
+  System.out.println("O 12 e menor que treze e 25 maior que 23");
+====================================================================
+         int idade;
+	  idade = 11;
+	  
+	  String sexo;
+	  sexo = "Feminino";
+	  
+	  if ((idade > 18) && (sexo == "Feminino")) {
+		 System.out.println("Voce e menina e menor de idade Rayna"); 
+	    
+	  }else{
+		  System.out.println("Voce e menina e maior de idade Rayna");
+         }
+	}
