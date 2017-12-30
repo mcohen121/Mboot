@@ -1,2 +1,2 @@
 if
-(print)
+System.out.println
