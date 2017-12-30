@@ -1,5 +1,3 @@
-
-
 int idade;
 	  idade = 21;
 	  
